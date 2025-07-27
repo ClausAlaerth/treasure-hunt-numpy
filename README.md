@@ -1,4 +1,4 @@
-# Hobby Project - Treasure Hunt with Numpy
+# Treasure Hunt with Numpy
 
 Following my journey, relearning some things and shaking the rust off my roots, I've decided to make a simple project depicting a treasure hunt using only Numpy.
 
@@ -12,4 +12,4 @@ This script was concieved with Python ver. 3.12 in mind. Make sure to install **
 
 ## Endnote
 
-As I've mentioned earlier, this was a barebones project, it doesn't even have an interface. You're welcome to adapt and implement whatever you've got in your ingenious mind. The sky's the limit!
+As I've mentioned earlier, this was a simple project, it doesn't even have an interface. You're welcome to adapt and implement whatever you've got in your ingenious mind. The sky's the limit!
