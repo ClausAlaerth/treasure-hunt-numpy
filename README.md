@@ -8,8 +8,8 @@ The player's score with increment with every step taken. As counter-intuitive as
 
 ## Requirements
 
-This script was concieved with Python ver. 3.12 in mind. Make sure to install **numpy**, as it was the only module used in this project.
+This script was created with Python ver. 3.12. Make sure to install **numpy**, as it was the only module used in this project.
 
 ## Endnote
 
-As I've mentioned earlier, this was a simple project, it doesn't even have an interface. You're welcome to adapt and implement whatever you've got in your ingenious mind. The sky's the limit!
+As I've mentioned earlier, this was a simple project, it doesn't even have an interface. You're welcome to adapt and implement whatever you've got in your mind. Thank you for reading!
